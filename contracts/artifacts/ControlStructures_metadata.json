@@ -1,0 +1,97 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_time",
+						"type": "uint256"
+					}
+				],
+				"name": "AfterHours",
+				"type": "error"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_time",
+						"type": "uint256"
+					}
+				],
+				"name": "doNotDisturb",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_number",
+						"type": "uint256"
+					}
+				],
+				"name": "fizzBuzz",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"details": "Experiment with sol control structures",
+			"kind": "dev",
+			"methods": {},
+			"title": "ControlStructures",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ControlStructures.sol": "ControlStructures"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ControlStructures.sol": {
+			"keccak256": "0xa8c73b7360e333f72e3802ddafc46aa44d73d880d2ae196689de8425e4b3bd63",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://02c704b87fc6a37716e392eb2417e85242535603ab8e6a2a36b597bcc2862217",
+				"dweb:/ipfs/QmastTqr8hiSQnkXZNyAGK5BywZRj86wNAjTfF96Dcn8rq"
+			]
+		}
+	},
+	"version": 1
+}
