@@ -1,0 +1,80 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getEvenNumbers",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "numbers",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"details": "Experiment with sol arrays",
+			"kind": "dev",
+			"methods": {},
+			"title": "ArrayDemo",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Arrays/contracts/ArrayDemo.sol": "ArrayDemo"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Arrays/contracts/ArrayDemo.sol": {
+			"keccak256": "0x601b48584bdbcf913b4d415a7fe7b9b858bc8181e6730961ea740f94d4c9ded5",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://bd3c69d61f7f9b9fa62f0c66f468c6d58f9f9c0ecef3643017917ca0aef8d5c5",
+				"dweb:/ipfs/Qmc5yvsoMSaWwok6hrexWHPRZoRRH7Ms9Wrcy7gXT1xTnq"
+			]
+		}
+	},
+	"version": 1
+}
