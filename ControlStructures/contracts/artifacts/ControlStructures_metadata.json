@@ -70,7 +70,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ControlStructures.sol": "ControlStructures"
+			"ControlStructures/contracts/ControlStructures.sol": "ControlStructures"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -84,7 +84,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ControlStructures.sol": {
+		"ControlStructures/contracts/ControlStructures.sol": {
 			"keccak256": "0x8006a1a016eddc293f6b4a7097bc11e87c5268cc928fd1a8604be6d0a0dc57c5",
 			"license": "GPL-3.0",
 			"urls": [
