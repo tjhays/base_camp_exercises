@@ -8,10 +8,10 @@ pragma solidity 0.8.18;
  */
  contract ArrayDemo {
      uint[] public numbers = [1,2,3,4,5,6,7,8,9,10];
+     uint public numEven = 5;
 
      function getEvenNumbers() external view returns(uint[] memory) {
-         uint resultLen = _countEventNumbers();
-         uint[] memory results = new uint[](resultLen);
+         uint[] memory results = new uint[](numEven);
          uint current = 0;
 
         for(uint i=0; i < numbers.length; i++) {

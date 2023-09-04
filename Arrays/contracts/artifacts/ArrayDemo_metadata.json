@@ -19,6 +19,19 @@
 				"type": "function"
 			},
 			{
+				"inputs": [],
+				"name": "numEven",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
 				"inputs": [
 					{
 						"internalType": "uint256",
@@ -68,11 +81,11 @@
 	},
 	"sources": {
 		"Arrays/contracts/ArrayDemo.sol": {
-			"keccak256": "0x601b48584bdbcf913b4d415a7fe7b9b858bc8181e6730961ea740f94d4c9ded5",
+			"keccak256": "0x95dffed2bb6cbdf7afa240cc1613782c0e2f2a6d877abc689da9f8babda3b61b",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://bd3c69d61f7f9b9fa62f0c66f468c6d58f9f9c0ecef3643017917ca0aef8d5c5",
-				"dweb:/ipfs/Qmc5yvsoMSaWwok6hrexWHPRZoRRH7Ms9Wrcy7gXT1xTnq"
+				"bzz-raw://0a775a9b4e07ad589bb3dc2f42fb6498ddfeedd4903e6db5a8feaee1d08b72dd",
+				"dweb:/ipfs/QmXyvZqbKSqrwVsD4yNfBfg8r19zkKuCbxXAVjo2vhJ9Zk"
 			]
 		}
 	},
