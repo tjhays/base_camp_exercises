@@ -11,3 +11,6 @@ https://goerli.basescan.org/address/0x48e4886da562a907cfA4b6D8Baa77b67466F520a
 
 Map Exercise
 https://goerli.basescan.org/address/0x26990dff3df60B45a29546B4482b291ba3cc5869
+
+Struct Exercise
+https://goerli.basescan.org/address/0x5576aaD3c6a57d1FEe2B1d659046Ef1485048200
