@@ -1,0 +1,47 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Experiment with abstract contracts ",
+			"kind": "dev",
+			"methods": {},
+			"title": "Employee",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Inheritance/contracts/Employee.sol": "absEmployee"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Inheritance/contracts/Employee.sol": {
+			"keccak256": "0x380d0e235e723ebe329d32dd9fc68164332b26914cb082c4eb38472c8c1f26c1",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://2ba9c98b30772c474de452357f39cc95b3da63961828e366612fec717e175fc4",
+				"dweb:/ipfs/QmSjGr2Yofvu6DgXngmbPZPnrDUixGBogLMKfAw4erYLv2"
+			]
+		}
+	},
+	"version": 1
+}
