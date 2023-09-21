@@ -23,4 +23,5 @@ Inheritance Exercise
  - Inheritance Submission
  - https://goerli.basescan.org/address/0x344C14Cf94d198118341a92F7B1f1ab49086Ff40 
 
-
+Import Exercise
+https://goerli.basescan.org/address/0xCEd7171dE9400f90bff6Aab5FD7fF423d923c90d#code
